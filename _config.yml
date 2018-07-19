@@ -13,9 +13,6 @@ permalink: /:year/:month/:day/:title/
 # Build settings
 analytics: false
 incremental: true
-sass:
-  sass_dir: assets/css/_sass
-  style: expanded # temporary! change back to compressed later
 markdown: kramdown
 plugins:
   - jekyll-feed
@@ -23,6 +20,7 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - _assets
   - vendor
   - docs
   - node_modules
