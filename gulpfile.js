@@ -30,6 +30,11 @@ var js_main_format = (done) => {
 		.pipe(insert.wrap('(function() {', '\n})();'))
 		.pipe(gulp.dest('_site/assets/js'))
 		.pipe(gulp.dest('assets/js'));
+
+	gulp.src('_assets/js/*.js')
+		.pipe(gulp.dest('_site/assets/js'))
+		.pipe(gulp.dest('assets/js'));
+
 	done();
 }
 
