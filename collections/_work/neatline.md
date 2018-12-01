@@ -47,6 +47,7 @@ collaborators:
 layout: work
 slug: neatline
 title: Neatline
+link: neatline.org
 thumb-img: neatline-thumb.png
 banner-img: neatline-banner.png
 research-category: Internal Projects and Community Service
