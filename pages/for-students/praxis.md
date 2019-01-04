@@ -17,11 +17,13 @@ Beginning as a 2011-2013 pilot project supported by a grant from the Andrew W. 
 
 ### Eligibility
 
-All University of Virginia doctoral students working within or committed to humanities disciplines are eligible to apply. We particularly encourage applications from women, LGBT students, and people of color, and will be working to put together an interdisciplinary and intellectually diverse team.
+Applicants must be a University of Virginia graduate student working within or committed to humanities disciplines in order to be eligible to apply. 
+
+We particularly encourage applications from women, LGBT students, and people of color, and will be working to put together an interdisciplinary and intellectually diverse team.
 
 Applicants must be enrolled full time in the year for which they are applying. In addition, applicants must be capable of attending weekly in-person meetings in both the fall and spring semesters of their fellowship year. 
 
-Applicants must still be drawing upon their regular funding packages as part of their doctoral program. I.e. students will typically be in years 2-5 of their program during the year the fellowship will be held.
+Applicants must still be drawing upon a regular funding package as part of their graduate program that includes health insurance and tuition remission. I.e. students will typically be in years 2-5 of a doctoral program during the year the fellowship will be held. 
 
 **N.b.** - Praxis students are **not** expected to come in with particular technical training or experiences - we cover that over the course of the fellowship year! Prior experience with digital technology is only one part of an application and should not keep anyone from applying. Everyone brings something different to the team, and your strengths in critical thinking about media, collaboration, project development, and more could be great ways for an application to shine. Concerned students are encouraged to reach out to [Brandon Walsh](mailto:bmw9t@virginia.edu), our Head of Graduate Programs, to discuss their backgrounds or eligibility. 
 
