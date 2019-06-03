@@ -28,7 +28,7 @@
 	@media screen and (min-width: 900px) {
 		padding: 1.5rem 8.33%;
 		padding-top: 1rem;
-	}	
+	}
 }
 
 .footer-main-grid {
@@ -70,7 +70,12 @@
 			line-height: 1;
 			color: $medskyblue !important;
 			border-bottom: 1px solid white;
-		} 
+		}
+	}
+	@media screen and (max-width: 768px){
+		span{
+		margin: auto;
+		}
 	}
 	@media screen and (min-width: 768px) {
 		justify-self: end;
@@ -163,7 +168,7 @@
 	text-align: right;
 	max-width: 83.33%;
 	div:first-of-type {
-		text-align: left; //title 
+		text-align: left; //title
 	}
 	span {
 		float: left;
