@@ -1,0 +1,13 @@
+---
+author: Ciara-Horne
+date: 2019-07-09
+layout: post
+slug: 3D-Data-Acquisition
+title: "How to Acquire 3D Data Using FARO Focus 3D Laser Scanner"
+categories:
+- Digital Humanities
+---
+
+## The Scanner
+
+The FARO Focus 3D Laser Scanner is a high-speed 3D laser scanner which is used to collect detailed measurements and document them. In this tutorial, we address the utilization of the `[X 130](https://knowledge.faro.com/Hardware/3D_Scanners/Focus/User_Manuals_for_the_Focus3D_X_130_or_130_HDR)` and `[120](https://knowledge.faro.com/Hardware/3D_Scanners/Focus/User_Manual_for_the_Focus3D_20-120_and_S_20-120)` models of this scanner. The FARO Focus can quickly and accurately produce several 3D points and assemble them to create images of the complex environments that you scan. The scanner sends infrared laser beams into a rotating mirror (**PICTURE**) that is located at its center. The mirror then deflects the beams as it rotates (**PICTURE**) and the light from the objects that are scanned are reflected back into the scanner so it can calculate their distances. A Point Cloud (i.e. 3D dataset) of the subject being scanned is created and subsequently recorded to a removable SD memory card.
